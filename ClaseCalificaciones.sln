@@ -16,6 +16,7 @@ Global
 		{D052D934-15AF-4092-A4BC-4732CF69BE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D052D934-15AF-4092-A4BC-4732CF69BE96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
