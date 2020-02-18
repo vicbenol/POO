@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\bin\Debug\RegistroDePersonas.exe.config
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\bin\Debug\RegistroDePersonas.exe
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\bin\Debug\RegistroDePersonas.pdb
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.exe
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.pdb
+C:\Users\victo\Desktop\Trabajos C#\RegistroDePersonas\RegistroDePersonas\obj\Debug\RegistroDePersonas.Concierto.resources
