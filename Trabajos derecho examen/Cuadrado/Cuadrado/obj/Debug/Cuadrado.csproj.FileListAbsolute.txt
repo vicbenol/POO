@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Form1.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\Cuadrado\Cuadrado\obj\Debug\Cuadrado.pdb
