@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\bin\Debug\CFE.exe.config
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\bin\Debug\CFE.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\bin\Debug\CFE.pdb
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.Form1.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\CFE\CFE\obj\Debug\CFE.pdb
