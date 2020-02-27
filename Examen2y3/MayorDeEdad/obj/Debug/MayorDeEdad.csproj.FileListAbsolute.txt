@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\bin\Debug\MayorDeEdad.exe.config
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\bin\Debug\MayorDeEdad.exe
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\bin\Debug\MayorDeEdad.pdb
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.exe
+C:\Users\victo\Desktop\Trabajos C#\Examen2y3\MayorDeEdad\obj\Debug\MayorDeEdad.pdb
