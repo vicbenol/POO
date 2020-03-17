@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.frmFigGeo.resources
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\victo\Desktop\Trabajos C#\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
