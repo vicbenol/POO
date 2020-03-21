@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe.config
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.pdb
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.exe
+C:\Users\victo\Desktop\Trabajos C#\EmpleadosRestaurante\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.pdb
