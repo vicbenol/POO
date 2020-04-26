@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\bin\Debug\PaisesDelMundo.exe.config
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\bin\Debug\PaisesDelMundo.exe
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\bin\Debug\PaisesDelMundo.pdb
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\obj\Debug\PaisesDelMundo.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\obj\Debug\PaisesDelMundo.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\obj\Debug\PaisesDelMundo.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\obj\Debug\PaisesDelMundo.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\obj\Debug\PaisesDelMundo.exe
+C:\Users\victo\Desktop\Trabajos C#\PaisesDelMundo\PaisesDelMundo\obj\Debug\PaisesDelMundo.pdb
