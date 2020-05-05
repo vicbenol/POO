@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\bin\Debug\EquipoFutbol.exe.config
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\bin\Debug\EquipoFutbol.exe
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\bin\Debug\EquipoFutbol.pdb
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.exe
+C:\Users\victo\Desktop\Trabajos C#\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.pdb
