@@ -14,7 +14,7 @@ namespace StreamEjemplo2
             using (Stream fs = new FileStream("./archivo.txt", FileMode.Open, FileAccess.Read))
             {
                 long quantity = fs.Length;
-                Console.WriteLine($"Si jala me la jalo {quantity} veces");
+                Console.WriteLine($"Se guardaron en {quantity} bytes");
 
                 for (long con = quantity; con > 0; con--)
                 {
