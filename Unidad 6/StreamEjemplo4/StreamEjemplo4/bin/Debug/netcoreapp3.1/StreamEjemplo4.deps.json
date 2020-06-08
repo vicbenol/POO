@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StreamEjemplo4/1.0.0": {
+        "runtime": {
+          "StreamEjemplo4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamEjemplo4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

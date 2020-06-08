@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\StreamEjemplo2.exe
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\StreamEjemplo2.deps.json
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\StreamEjemplo2.runtimeconfig.json
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\StreamEjemplo2.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\StreamEjemplo2.dll
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\StreamEjemplo2.pdb
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\obj\Debug\netcoreapp3.1\StreamEjemplo2.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\obj\Debug\netcoreapp3.1\StreamEjemplo2.AssemblyInfo.cs
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\obj\Debug\netcoreapp3.1\StreamEjemplo2.dll
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\obj\Debug\netcoreapp3.1\StreamEjemplo2.pdb
+C:\Users\victo\Desktop\Trabajos C#\StreamEjemplo2\StreamEjemplo2\bin\Debug\netcoreapp3.1\archivo.txt
