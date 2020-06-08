@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\bin\Debug\CalificacionesActividad1.exe.config
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\bin\Debug\CalificacionesActividad1.exe
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\bin\Debug\CalificacionesActividad1.pdb
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.Form1.resources
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.Properties.Resources.resources
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.exe
+C:\Users\victo\Desktop\POO Repositorios\POO\ClaseCalificaciones\CalificacionesActividad1\obj\Debug\CalificacionesActividad1.pdb

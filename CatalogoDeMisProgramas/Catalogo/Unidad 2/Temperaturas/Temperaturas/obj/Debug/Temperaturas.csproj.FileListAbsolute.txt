@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe.config
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\bin\Debug\Temperaturas.pdb
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.Form1.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\Temperaturas\Temperaturas\obj\Debug\Temperaturas.pdb

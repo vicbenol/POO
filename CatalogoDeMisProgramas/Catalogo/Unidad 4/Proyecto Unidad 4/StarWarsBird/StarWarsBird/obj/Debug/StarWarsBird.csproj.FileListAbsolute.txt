@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\bin\Debug\StarWarsBird.exe.config
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\bin\Debug\StarWarsBird.exe
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\bin\Debug\StarWarsBird.pdb
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\obj\Debug\StarWarsBird.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\obj\Debug\StarWarsBird.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\obj\Debug\StarWarsBird.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\obj\Debug\StarWarsBird.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\obj\Debug\StarWarsBird.exe
+C:\Users\victo\Desktop\Trabajos C#\StarWarsBird\StarWarsBird\obj\Debug\StarWarsBird.pdb

@@ -1,0 +1,18 @@
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\bin\Debug\AlumnosDocentes.exe.config
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\bin\Debug\AlumnosDocentes.exe
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\bin\Debug\AlumnosDocentes.pdb
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\obj\Debug\AlumnosDocentes.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\obj\Debug\AlumnosDocentes.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\obj\Debug\AlumnosDocentes.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\obj\Debug\AlumnosDocentes.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\obj\Debug\AlumnosDocentes.exe
+C:\Users\victo\Desktop\Trabajos C#\AlumnosDocentes\AlumnosDocentes\obj\Debug\AlumnosDocentes.pdb
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\bin\Debug\AlumnosDocentes.exe.config
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\bin\Debug\AlumnosDocentes.exe
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\bin\Debug\AlumnosDocentes.pdb
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\obj\Debug\AlumnosDocentes.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\obj\Debug\AlumnosDocentes.Form1.resources
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\obj\Debug\AlumnosDocentes.Properties.Resources.resources
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\obj\Debug\AlumnosDocentes.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\obj\Debug\AlumnosDocentes.exe
+C:\Users\victo\Desktop\Unidad 5\Programa 4\AlumnosDocentes\obj\Debug\AlumnosDocentes.pdb

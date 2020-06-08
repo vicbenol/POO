@@ -1,0 +1,27 @@
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.exe.config
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.exe
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.pdb
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.exe
+C:\Users\victo\Desktop\Trabajos C#\AgregarVariosPaises\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.pdb
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.exe.config
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.exe
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.pdb
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.Form1.resources
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.Properties.Resources.resources
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.exe
+C:\Users\victo\Desktop\Nuevo repositorio\POO\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.pdb
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.exe.config
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.exe
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\bin\Debug\AgregarVariosPaises.pdb
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.Form1.resources
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.Properties.Resources.resources
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.exe
+C:\Users\victo\Desktop\Unidad 5\Programa 2\AgregarVariosPaises\obj\Debug\AgregarVariosPaises.pdb

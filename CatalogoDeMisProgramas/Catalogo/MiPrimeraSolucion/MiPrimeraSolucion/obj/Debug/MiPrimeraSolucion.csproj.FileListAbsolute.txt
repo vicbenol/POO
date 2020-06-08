@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\bin\Debug\MiPrimeraSolucion.exe.config
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\bin\Debug\MiPrimeraSolucion.exe
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\bin\Debug\MiPrimeraSolucion.pdb
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.exe
+C:\Users\victo\Desktop\Trabajos C#\MiPrimeraSolucion\MiPrimeraSolucion\obj\Debug\MiPrimeraSolucion.pdb

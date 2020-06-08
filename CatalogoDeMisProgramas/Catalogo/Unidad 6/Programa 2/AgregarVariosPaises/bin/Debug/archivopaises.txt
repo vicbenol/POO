@@ -1,0 +1,4 @@
+Pais:china
+ Habitantes:12
+Idioma:chino
+ Colores principales de la bandera:rojo  amarillo sin color 

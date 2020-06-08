@@ -1,0 +1,9 @@
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\victo\Desktop\Trabajos C#\Operaciones\Operaciones\obj\Debug\Operaciones.pdb

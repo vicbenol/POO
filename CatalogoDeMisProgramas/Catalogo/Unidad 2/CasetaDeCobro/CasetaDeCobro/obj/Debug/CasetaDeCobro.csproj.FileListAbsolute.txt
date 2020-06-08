@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\bin\Debug\CasetaDeCobro.exe.config
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\bin\Debug\CasetaDeCobro.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\bin\Debug\CasetaDeCobro.pdb
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.Form1.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.exe
+C:\Users\victo\Desktop\Trabajos derecho examen\CasetaDeCobro\CasetaDeCobro\obj\Debug\CasetaDeCobro.pdb

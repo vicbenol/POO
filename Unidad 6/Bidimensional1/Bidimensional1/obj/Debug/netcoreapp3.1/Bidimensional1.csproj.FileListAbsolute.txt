@@ -1,0 +1,23 @@
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.exe
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.deps.json
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.runtimeconfig.json
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.dll
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.pdb
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.AssemblyInfo.cs
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.dll
+C:\Users\victo\source\repos\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.pdb
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\archivomatriz.txt
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.exe
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.deps.json
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.runtimeconfig.json
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.dll
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\bin\Debug\netcoreapp3.1\Bidimensional1.pdb
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.AssemblyInfo.cs
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.dll
+C:\Users\victo\Desktop\Unidad 5\Bidimensional1\Bidimensional1\obj\Debug\netcoreapp3.1\Bidimensional1.pdb

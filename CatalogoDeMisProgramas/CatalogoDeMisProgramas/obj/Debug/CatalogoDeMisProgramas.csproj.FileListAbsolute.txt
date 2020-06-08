@@ -1,0 +1,26 @@
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\bin\Debug\CatalogoDeMisProgramas.exe.config
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\bin\Debug\CatalogoDeMisProgramas.exe
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\bin\Debug\CatalogoDeMisProgramas.pdb
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmCatalogo.resources
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad1.resources
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad2.resources
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.exe
+C:\Users\victo\Desktop\Trabajos C#\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.pdb
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\bin\Debug\CatalogoDeMisProgramas.exe.config
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\bin\Debug\CatalogoDeMisProgramas.exe
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\bin\Debug\CatalogoDeMisProgramas.pdb
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmCatalogo.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad1.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.Properties.Resources.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.exe
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.pdb
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad2y3.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.Frm32.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad4.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad5.resources
+C:\Users\victo\Desktop\CatalogoDeMisProgramas\CatalogoDeMisProgramas\obj\Debug\CatalogoDeMisProgramas.FrmUnidad6.resources

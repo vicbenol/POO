@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.pdb
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.frmEmbotelladora.resources
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\victo\Desktop\POO Repositorios\POO\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.pdb

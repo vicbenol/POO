@@ -1,0 +1,27 @@
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.exe.config
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.exe
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.pdb
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.Form1.resources
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.Properties.Resources.resources
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.exe
+C:\Users\victo\Desktop\Trabajos C#\ElAlumnoYElMaestro\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.pdb
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.exe.config
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.exe
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.pdb
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.Form1.resources
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.Properties.Resources.resources
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.exe
+C:\Users\victo\Desktop\Unidad 5\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.pdb
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.Form1.resources
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.Properties.Resources.resources
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.exe
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\obj\Debug\ElAlumnoYElMaestro.pdb
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.exe.config
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.exe
+C:\Users\victo\Desktop\Unidad 6\Programa 3\ElAlumnoYElMaestro\bin\Debug\ElAlumnoYElMaestro.pdb
