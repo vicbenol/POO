@@ -1,4 +1,8 @@
-Pais:china
- Habitantes:12
-Idioma:chino
- Colores principales de la bandera:rojo  amarillo sin color 
+Pais:mexico
+ Habitantes:12345
+Idioma:espanol
+ Colores principales de la bandera:verde blanco rojo 
+Pais:usa
+ Habitantes:1
+Idioma:inglish
+ Colores principales de la bandera:rojo blsnco azul 

@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnEjeInt = new System.Windows.Forms.Button();
             this.btnEmpRes = new System.Windows.Forms.Button();
             this.btnFigGeo = new System.Windows.Forms.Button();
             this.btnOpera = new System.Windows.Forms.Button();
@@ -37,21 +36,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnEjeInt
-            // 
-            this.btnEjeInt.Font = new System.Drawing.Font("Magneto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEjeInt.Location = new System.Drawing.Point(12, 12);
-            this.btnEjeInt.Name = "btnEjeInt";
-            this.btnEjeInt.Size = new System.Drawing.Size(126, 66);
-            this.btnEjeInt.TabIndex = 0;
-            this.btnEjeInt.Text = "Ejercicio de interfaces";
-            this.btnEjeInt.UseVisualStyleBackColor = true;
-            this.btnEjeInt.Click += new System.EventHandler(this.btnEjeInt_Click);
-            // 
             // btnEmpRes
             // 
             this.btnEmpRes.Font = new System.Drawing.Font("Magneto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEmpRes.Location = new System.Drawing.Point(168, 15);
+            this.btnEmpRes.Location = new System.Drawing.Point(12, 12);
             this.btnEmpRes.Name = "btnEmpRes";
             this.btnEmpRes.Size = new System.Drawing.Size(127, 48);
             this.btnEmpRes.TabIndex = 1;
@@ -62,7 +50,7 @@
             // btnFigGeo
             // 
             this.btnFigGeo.Font = new System.Drawing.Font("Magneto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFigGeo.Location = new System.Drawing.Point(335, 19);
+            this.btnFigGeo.Location = new System.Drawing.Point(166, 12);
             this.btnFigGeo.Name = "btnFigGeo";
             this.btnFigGeo.Size = new System.Drawing.Size(129, 59);
             this.btnFigGeo.TabIndex = 2;
@@ -73,7 +61,7 @@
             // btnOpera
             // 
             this.btnOpera.Font = new System.Drawing.Font("Magneto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOpera.Location = new System.Drawing.Point(95, 89);
+            this.btnOpera.Location = new System.Drawing.Point(313, 12);
             this.btnOpera.Name = "btnOpera";
             this.btnOpera.Size = new System.Drawing.Size(128, 35);
             this.btnOpera.TabIndex = 3;
@@ -84,7 +72,7 @@
             // btnJuego
             // 
             this.btnJuego.Font = new System.Drawing.Font("Magneto", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnJuego.Location = new System.Drawing.Point(275, 95);
+            this.btnJuego.Location = new System.Drawing.Point(456, 31);
             this.btnJuego.Name = "btnJuego";
             this.btnJuego.Size = new System.Drawing.Size(92, 29);
             this.btnJuego.TabIndex = 4;
@@ -131,7 +119,6 @@
             this.Controls.Add(this.btnOpera);
             this.Controls.Add(this.btnFigGeo);
             this.Controls.Add(this.btnEmpRes);
-            this.Controls.Add(this.btnEjeInt);
             this.Name = "FrmUnidad4";
             this.Text = "Unidad 4";
             this.ResumeLayout(false);
@@ -140,8 +127,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btnEjeInt;
         private System.Windows.Forms.Button btnEmpRes;
         private System.Windows.Forms.Button btnFigGeo;
         private System.Windows.Forms.Button btnOpera;

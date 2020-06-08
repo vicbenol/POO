@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Desktop\\Nuevo repositorio\\POO\\StreamEjemplo4\\StreamEjemplo4\\StreamEjemplo4.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Desktop\\Nuevo repositorio\\POO\\Unidad 6\\StreamEjemplo4\\StreamEjemplo4\\StreamEjemplo4.csproj",
       "projectName": "StreamEjemplo4",
-      "projectPath": "C:\\Users\\victo\\Desktop\\Nuevo repositorio\\POO\\StreamEjemplo4\\StreamEjemplo4\\StreamEjemplo4.csproj",
+      "projectPath": "C:\\Users\\victo\\Desktop\\Nuevo repositorio\\POO\\Unidad 6\\StreamEjemplo4\\StreamEjemplo4\\StreamEjemplo4.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Desktop\\Nuevo repositorio\\POO\\StreamEjemplo4\\StreamEjemplo4\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Desktop\\Nuevo repositorio\\POO\\Unidad 6\\StreamEjemplo4\\StreamEjemplo4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
